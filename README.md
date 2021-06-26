@@ -6,7 +6,7 @@ Um contador irá medir a quantidade das palavras e caracteres digitados. Caso o 
 disabilitado e é mostrado o resultado numa tablea abaixo.
 -----------------------------------------------------------
 Stacks Ultilizadas no projeto
-HTML,
-CSS,
-JAVASCRIPT,
-JQUERY
+                             HTML,
+                             CSS,
+                             JAVASCRIPT,
+                             JQUERY
